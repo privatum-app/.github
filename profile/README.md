@@ -29,10 +29,7 @@ Contato: contato@privatum.app · Falhas de segurança: mesmo e-mail, com "Segura
 
 ---
 
-<details id="english">
-<summary><strong>English</strong></summary>
-
-<br>
+## English
 
 **Your chat. Your machine. No owner.**
 
@@ -40,17 +37,16 @@ An end-to-end encrypted chat you host on your own computer and publish on the To
 
 [privatum.app](https://privatum.app) · [Download](https://github.com/privatum-app/privatum-selfhosted/releases/latest) · [How to install](https://github.com/privatum-app/privatum-selfhosted/blob/main/README.en.md#simple-install-recommended) · [Security](https://github.com/privatum-app/privatum-selfhosted/blob/main/SECURITY.en.md)
 
-#### No account. No company. Invite only.
+### No account. No company. Invite only.
 
 - **Encrypted in the browser** with Olm/Double Ratchet (vodozemac). The instance only stores and delivers what it cannot read.
 - **You host it** with Docker on Windows, macOS or Linux. No open ports, no domain, no fixed IP: Tor takes care of that.
 - **People who chat only need Tor Browser** (Standard level) on Windows, macOS, Linux or Android. iPhone and iPad are not supported.
 - One-to-one chats and groups of up to 20 people, safety code, disappearing messages and encrypted backup.
 
-#### What it does not protect
+### What it does not protect
 
 Whoever runs the instance can serve a tampered app; the instance sees metadata (who talks to whom and when); a compromised device exposes everything; anonymity depends on how you host and use it. **The project has not had an external audit.** [Full list of limits](https://github.com/privatum-app/privatum-selfhosted/blob/main/docs/THREAT-MODEL.md) (in Portuguese).
 
 Contact: contato@privatum.app · Security issues: same address, with "Security" in the subject.
 
-</details>
