@@ -9,7 +9,7 @@
   <a href="https://github.com/privatum-app/privatum-selfhosted/releases/latest">Baixar</a> ·
   <a href="https://github.com/privatum-app/privatum-selfhosted#instalação-simples-recomendada">Como instalar</a> ·
   <a href="https://github.com/privatum-app/privatum-selfhosted/blob/main/SECURITY.md">Segurança</a> ·
-  <a href="#english">English</a>
+  English below ↓
 </p>
 
 <img src="https://raw.githubusercontent.com/privatum-app/privatum-selfhosted/main/docs/imagens/app-conversa.png" alt="Conversa no Privatum, numa instância de teste com contatos fictícios" width="100%">
